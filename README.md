@@ -57,3 +57,6 @@ I'm always looking for new ways to use AI and data science to make a positive im
 
 If you have any feedback, please reach out to us at mohamedanasm10@gmail.com
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
